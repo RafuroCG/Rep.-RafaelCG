@@ -1,7 +1,5 @@
 ### INTEGRALES NO ELEMENTALES ###
 
-#import PyLaTeX as LTX
-
 import math
 import numpy as np
 
